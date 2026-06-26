@@ -25,6 +25,10 @@ ai-generated-image-detector/
 │
 ├── notebooks/
 │   ├── 01_environment_and_data_check.ipynb
+    └── 02_logistic_regression_baseline_model_STANDARDIZED.ipynb
+    └── 03_cnn_resnet18_model_finetuned_STANDARDIZED.ipynb
+    └── 04_vit_base_patch16_224_model_finetuned_STANDARDIZED.ipynb
+    └── 05_vit_all_layer_mold_model_STANDARDIZED.ipynb
 │   └── 06_clip_mold_model_frozen_backbone_STANDARDIZED.ipynb
 │
 ├── report/
