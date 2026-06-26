@@ -1,0 +1,1 @@
+# cbs-ai-generated-image-detector
