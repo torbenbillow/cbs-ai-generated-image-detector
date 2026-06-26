@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+torch
+torchvision
+lightning
+transformers
+datasets
+huggingface_hub
+notebook
+ipykernel
